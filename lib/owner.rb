@@ -60,6 +60,7 @@ class Owner
     
   def list_pets
     self.all.each{|list| list}
+  end
 
 
 end
